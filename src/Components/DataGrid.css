@@ -1,0 +1,19 @@
+.grid{
+    padding: 20px;
+    margin-left: 100px;
+    padding-top: 10px;
+}
+
+
+th {
+    height: 70px;
+  }
+
+  td{
+    height: 40px;
+  }
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
